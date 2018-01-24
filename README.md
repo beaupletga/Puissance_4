@@ -3,4 +3,4 @@
 To start the game, just open main.html in you browser
 
 
-![Alt Text](puissanc4.gif)
+![Alt Text](puissance4.gif)
